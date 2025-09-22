@@ -33,3 +33,5 @@ Links:
 - https://www.youtube.com/playlist?list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL
 - https://www.youtube.com/playlist?list=PL_wz_RHE6pEbsZJJvAraOJTEFj8s7YbOs
 - https://github.com/icefox-saber/CLRS?tab=readme-ov-file
+- https://www.ibilce.unesp.br/#!/departamentos/matematica-aplicada/pagina-pessoal/socorro/disciplinas/teoria-dos-grafos/
+- https://www.ime.usp.br/~pf/algoritmos_para_grafos/
